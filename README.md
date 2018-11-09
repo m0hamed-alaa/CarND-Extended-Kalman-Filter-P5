@@ -1,5 +1,6 @@
 # Vehicle tracking using Extended Kalman Filter
-In this project , Extended kalman filter is implemented in C++ to fuse noisy lidar and radar measurements in order to track the position and velocity of a moving vehicle of interest.   
+In this project , Extended kalman filter is implemented in C++ to fuse noisy lidar and radar measurements in order to track the position and velocity of a moving vehicle of interest.  
+ 
 This project is done as part of the self-driving car nanodegree .
 
 ---  
